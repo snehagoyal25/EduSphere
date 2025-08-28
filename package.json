@@ -1,0 +1,25 @@
+{
+  "name": "course-selling-app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000d\u0000u\u0000S\u0000p\u0000h\u0000e\u0000r\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehagoyal25/EduSphere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehagoyal25/EduSphere/issues"
+  },
+  "homepage": "https://github.com/snehagoyal25/EduSphere#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0"
+  }
+}
