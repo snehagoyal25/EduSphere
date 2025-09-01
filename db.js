@@ -31,7 +31,7 @@ const purchaseSchema = new Schema ({
 });
 
 async function fetchPurchase() {
-  await mongoose.connect("mongodb+srv://nehagoyal5557:snehagoyal@cluster0.wefzx.mongodb.net/coursera-app")
+  await mongoose.connect("")
   const purchases = await purchaseModel
   .find()
   .populate('userId')
